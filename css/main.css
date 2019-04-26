@@ -1,0 +1,52 @@
+body {
+  background:url("../img/background1.png");
+  background-repeat: no-repeat;
+background-size: auto;
+
+}
+ol{
+  border-style: solid;
+  border-width: 5px;
+  background-color: #f1f442;
+}
+
+p{
+  border-style: solid;
+  border-width: 5px;
+  background-color: #f44242;
+}
+body{
+  font-family:Georgia, "Times New Roman"
+}
+div {
+  margin-top: 5;
+  margin-bottom: 0;
+}
+dl,
+ol,
+p{
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+dd{margin-left: 0;}
+
+ul{margin-left:0;}
+ul{padding-left: 1.15em;}
+
+body{
+  padding-bottom: 10em;
+}
+
+h1,
+h2,
+h3,
+h4{
+  font-family:impact;
+}
+h1,
+h2,
+h3,
+h4{
+  font-size: 3em;
+}
